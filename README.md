@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust and NextJS**
 
-- 👨‍💻 All of my projects are available at [rchrdcrngl.github.io/portfolio](rchrdcrngl.github.io/portfolio)
+- 👨‍💻 All of my projects are available [here](https://rchrdcrngl.github.io/portfolio).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
