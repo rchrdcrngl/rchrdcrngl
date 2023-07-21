@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [portfolio](https://github.com/rchrdcrngl/portfolio)
 
-- 🌱 I’m currently learning **Rust and**
+- 🌱 I’m currently learning **Rust and NextJS**
 
 - 👨‍💻 All of my projects are available at [rchrdcrngl.github.io/portfolio](rchrdcrngl.github.io/portfolio)
 
