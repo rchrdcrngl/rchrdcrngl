@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Maru Caringal</h1>
 <h4 align="center">An aspiring full stack developer from the Philippines</h4>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/rchrdcrngl/portfolio)
+- 🔭 I’m currently working on my [portfolio](https://github.com/rchrdcrngl/portfolio)
 
 - 🌱 I’m currently learning **Rust and NextJS**
 
