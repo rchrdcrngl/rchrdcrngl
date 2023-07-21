@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Maru Caringal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">An aspiring full stack developer from the Philippines</h4>
 
 - 🔭 I’m currently working on [portfolio](https://github.com/rchrdcrngl/portfolio)
 
