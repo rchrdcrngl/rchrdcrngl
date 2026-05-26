@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Maru Caringal</h1>
-<h4 align="center">An aspiring full stack developer from the Philippines</h4>
+<h4 align="center">An AI Engineer from the Philippines</h4>
 
 - 🔭 I’m currently working on a personal project 👀
-
-- 🌱 I’m currently learning **Rust and NextJS**
 
 - 👨‍💻 All of my projects are available [here](https://rchrdcrngl.github.io/portfolio).
 
